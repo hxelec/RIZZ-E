@@ -1,0 +1,1 @@
+Schematic file for RIZZ-E, an all-in-one controller based on ESP32-S3-PICO-1-N8R2 for one of my university projects. Thanks to MicroType Engineering for his video on lithium battery charging circuitry - this was of great help, even if none of my own components were the same as his: https://www.youtube.com/watch?v=GRd9uTwg7r4
